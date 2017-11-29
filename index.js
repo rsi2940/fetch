@@ -12,4 +12,4 @@ async function getPlanets(planetApi = API) {
 }
 getPlanets();
 
-console.log(planets);
+//console.log(planets);
